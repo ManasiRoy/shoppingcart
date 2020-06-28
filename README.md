@@ -3,6 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+npm install 
+
+Some of the dependencies need to install 
+-------------------------------------------
+npm install react-bootstrap bootstrap  react-bootstrap-icons --save node-sass react-owl-carousel2
+
 
 ### `npm start`
 
